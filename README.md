@@ -20,6 +20,8 @@ Run your own server!
 --------------------
 
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/petercunha/Pad)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 Or you can install Pad youself in just a few commands
 ```bash
